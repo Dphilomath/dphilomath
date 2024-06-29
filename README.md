@@ -1,5 +1,5 @@
-## Hi there 👋
 
+[![dphilomath's stats](https://github-readme-stats.vercel.app/api?username=dphilomath)](https://github.com/dphilomath/github-readme-stats)
 <!--
 **Dphilomath/dphilomath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
